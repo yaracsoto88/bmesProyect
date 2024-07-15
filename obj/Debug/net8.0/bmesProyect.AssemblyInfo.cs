@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("bmesProyect")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b01f2630912931c5c307399f4444781355a0959d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f75f728cae70b23bbc0ab8c1a34dc0566e397c6a")]
 [assembly: System.Reflection.AssemblyProductAttribute("bmesProyect")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bmesProyect")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
